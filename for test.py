@@ -10,4 +10,4 @@ model.predict(np.array([[0,1]]))
 # from math import dist
 # #print([dist(x_train[:i],y) for i in range(len(x_train)) ])
 # print(len(x_train[8,1]))
-#new line
+#delete new line
